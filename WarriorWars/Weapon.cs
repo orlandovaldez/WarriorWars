@@ -8,8 +8,8 @@ namespace WarriorWars.Equipment
    class Weapon
    {
 
-      private const int JUSTICE_LEAGUE_DAMAGE = 7;
-      private const int LEGION_OF_DOOM_DAMAGE = 7;
+      private const int JUSTICE_LEAGUE_DAMAGE = 8;
+      private const int LEGION_OF_DOOM_DAMAGE = 6;
 
       private int damage;
 

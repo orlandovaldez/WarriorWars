@@ -6,7 +6,7 @@ namespace WarriorWars
    {
 
       private const int JUSTICE_LEAGUE_ARMOR = 5;
-      private const int LEGION_OF_DOOM_ARMOR = 5;
+      private const int LEGION_OF_DOOM_ARMOR = 7;
 
       private int armorPoints;
 
