@@ -43,7 +43,7 @@ namespace WarriorWars
                LegionOfDoom5.Attack(JusticeLeague5);
             }
 
-            Thread.Sleep(175);
+            Thread.Sleep(250);
          }
       }
    }
